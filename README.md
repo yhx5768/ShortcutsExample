@@ -14,3 +14,8 @@ A shortcuts example app
 1. 抄作业
 1. 生成自己的app
 1. 享受生活
+
+### 鸣谢
+感谢酷安大佬
+[卿问訫](http://www.coolapk.com/u/512690)
+技术上的支持。
