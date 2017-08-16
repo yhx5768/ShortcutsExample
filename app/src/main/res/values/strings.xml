@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">ShortcutsExample</string>
-    <string name="shortcuts1stLabel">地一个</string>
+    <string name="shortcuts1stLabel">第一个</string>
     <string name="shortcuts2ndLabel">第二个</string>
     <string name="shortcuts3rdLabel">第三个</string>
     <string name="shortcuts4thLabel">第四个</string>
