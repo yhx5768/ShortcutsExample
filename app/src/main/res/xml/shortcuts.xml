@@ -1,0 +1,68 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <shortcut
+        android:shortcutId="shortcuts1st"
+        android:enabled="true"
+        android:icon="@drawable/shortcuts1st"
+        android:shortcutShortLabel="@string/shortcuts1stLabel"
+        android:shortcutLongLabel="@string/shortcuts1stLabel"
+        android:shortcutDisabledMessage="@string/settings_disable_msg">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.myshortcuts.shortcutsexample.Shortcuts1stActivity"
+            android:targetPackage="com.myshortcuts.shortcutsexample" />
+    </shortcut>
+    <shortcut
+        android:shortcutId="shortcuts2nd"
+        android:enabled="true"
+        android:icon="@drawable/shortcuts2nd"
+        android:shortcutShortLabel="@string/shortcuts2ndLabel"
+        android:shortcutLongLabel="@string/shortcuts2ndLabel"
+        android:shortcutDisabledMessage="@string/settings_disable_msg">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.myshortcuts.shortcutsexample.Shortcuts2ndActivity"
+            android:targetPackage="com.myshortcuts.shortcutsexample" />
+    </shortcut>
+    <shortcut
+        android:shortcutId="shortcuts3rd"
+        android:enabled="true"
+        android:icon="@drawable/shortcuts3rd"
+        android:shortcutShortLabel="@string/shortcuts3rdLabel"
+        android:shortcutLongLabel="@string/shortcuts3rdLabel"
+        android:shortcutDisabledMessage="@string/settings_disable_msg">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.myshortcuts.shortcutsexample.Shortcuts3rdActivity"
+            android:targetPackage="com.myshortcuts.shortcutsexample" />
+    </shortcut>
+    <shortcut
+        android:shortcutId="shortcuts4th"
+        android:enabled="true"
+        android:icon="@drawable/shortcuts4th"
+        android:shortcutShortLabel="@string/shortcuts4thLabel"
+        android:shortcutLongLabel="@string/shortcuts4thLabel"
+        android:shortcutDisabledMessage="@string/settings_disable_msg">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.myshortcuts.shortcutsexample.Shortcuts4thActivity"
+            android:targetPackage="com.myshortcuts.shortcutsexample" />
+    </shortcut>
+    <shortcut
+        android:shortcutId="shortcuts5th"
+        android:enabled="true"
+        android:icon="@drawable/shortcuts5th"
+        android:shortcutShortLabel="@string/shortcuts5thLabel"
+        android:shortcutLongLabel="@string/shortcuts5thLabel"
+        android:shortcutDisabledMessage="@string/settings_disable_msg">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.myshortcuts.shortcutsexample.Shortcuts5thActivity"
+            android:targetPackage="com.myshortcuts.shortcutsexample" />
+    </shortcut>
+</shortcuts>

@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">ShortcutsExample</string>
+    <string name="shortcuts1stLabel">地一个</string>
+    <string name="shortcuts2ndLabel">第二个</string>
+    <string name="shortcuts3rdLabel">第三个</string>
+    <string name="shortcuts4thLabel">第四个</string>
+    <string name="shortcuts5thLabel">第五个</string>
+    <string name="settings_disable_msg">Disabled</string>
+    <string name="package_name">com.tencent.mm</string>
+    <string name="shell_1st">am start -n com.tencent.mm/com.tencent.mm.plugin.setting.ui.setting.SelfQRCodeUI</string>
+    <string name="shell_2nd">am start -n com.tencent.mm/com.tencent.mm.plugin.setting.ui.setting.SelfQRCodeUI</string>
+    <string name="shell_3rd">am start -n com.tencent.mm/com.tencent.mm.plugin.setting.ui.setting.SelfQRCodeUI</string>
+    <string name="shell_4th">am start -n com.tencent.mm/com.tencent.mm.plugin.setting.ui.setting.SelfQRCodeUI</string>
+    <string name="shell_5th">am start -n com.tencent.mm/com.tencent.mm.plugin.setting.ui.setting.SelfQRCodeUI</string>
 </resources>
