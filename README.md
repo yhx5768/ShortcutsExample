@@ -1,7 +1,7 @@
 # ShortcutsExample
 A shortcuts example app
 
-![](https://github.com/yhx5768/ImageBed/blob/master/ShortcutsExample/1224984635.jpg?raw=true)
+![](https://gitlab.com/yhx5768/ImageBed/raw/master/ShortcutsExample/1224984635.jpg)
 
 ### 什么是shortcuts？
 (坑)
